@@ -1,7 +1,7 @@
 # HELLO, LUYANDO HERE✨
 
-A special welcome to my Github profile. i am just a lady who is passionate about 
-learning and code.
+A special welcome to my Github profile. i am just a lady who is passionate
+about learning and code.
 
 ## ABOUT ME
 
