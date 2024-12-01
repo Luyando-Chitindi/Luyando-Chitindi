@@ -27,7 +27,7 @@ A special welcome to my Github profile.
 
 Feel free to reach out to me on any of these platforms:
 
-- [Linkedin](<https://www.linkedin.com/in/luyando-chitindi-610459200/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app>) : Luyando
+- [Linkedin](<https://www.linkedin.com/in/luyando-chitindi-610459200>) : Luyando
   Chitindi
 - [Facebook](https://www.facebook.com/profile.php?id=100009051706753) : Luyando Chitindi
 
