@@ -1,7 +1,6 @@
 # HELLO, LUYANDO HERE✨
 
-A special welcome to my Github profile. i am just a lady who is passionate
-about learning and code.
+A special welcome to my Github profile. i am passionate about learning how to code.
 
 ## ABOUT ME
 
@@ -31,5 +30,5 @@ Feel free to reach out to me on any of these platforms:
 - [Linkedin](<https://www.linkedin.com/in/luyando-chitindi-610459200/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app>) : Luyando
   Chitindi
 - [Facebook](https://www.facebook.com/profile.php?id=100009051706753) : Luyando Chitindi
-<!-- I am keeping the "!" for joy -->
+
 ## Thank you for reading through
