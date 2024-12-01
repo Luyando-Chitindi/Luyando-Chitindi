@@ -1,6 +1,6 @@
 # HELLO, LUYANDO HERE✨
 
-A special welcome to my Github profile. i am passionate about learning how to code.
+A special welcome to my Github profile.
 
 ## ABOUT ME
 
